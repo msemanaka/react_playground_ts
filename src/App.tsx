@@ -7,12 +7,16 @@ function App() {
 
   return (
     <>
-      {/* <Home
+      <Home
         titulo="Componente Home"
         texto="Este é um Componente que recebe props."
       />
+      <br />
+      <br />
 
-      <Contador /> */}
+      <Contador />
+      <br />
+      <br />
       
       <Tarefa />
     </>
